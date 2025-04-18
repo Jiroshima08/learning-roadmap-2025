@@ -1,6 +1,6 @@
 # Learning Roadmap 2025 📚
 
-Hi, I'm Gyro 👋 — a 3rd-year BSIT student passionate about Java, web development, and databases.  
+Hi, I'm Gyro 👋 — a 2nd-year BSIT student passionate about Java, web development, and databases.  
 This repo is my **personal learning journey** as I build up the skills needed to work at **Accenture** and beyond.
 
 ## My Goals
