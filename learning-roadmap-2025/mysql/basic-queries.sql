@@ -1,1 +1,0 @@
--- Basic SQL queries will go here.
